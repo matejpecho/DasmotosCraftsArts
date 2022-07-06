@@ -1,0 +1,45 @@
+/*
+CSS Stylesheet
+*/
+
+html, body {
+    font-family: Helvetica;
+}
+
+header {
+    background-image: url('../images/pattern.jpeg');
+    text-align: center;
+}
+
+.main-heading {
+    font-size: 100px;
+    font-weight: bold;
+    color: khaki;
+}
+
+.section-heading {
+    font-size: 32px;
+    font-weight: bold;
+    color: white;
+}
+
+#brush > h5 {
+    background-color: mediumspringgreen;
+}
+
+#frame > h5 {
+    background-color: lightcoral;
+}
+
+#paint > h5 {
+    background-color: skyblue;
+}
+
+.product-name {
+    font-size: 20px;
+    font-weight: bold;
+}
+
+.product-price {
+    color: blue;
+}
