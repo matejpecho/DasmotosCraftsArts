@@ -43,3 +43,17 @@ header {
 .product-price {
     color: blue;
 }
+
+.navbar {
+    background-color: rgb(136, 196, 163) ;
+}
+
+.nav-item {
+    background-color: rgb(136, 196, 163);
+    display: inline-block;
+}
+
+.nav-item:hover {
+    cursor: pointer;
+    background-color: bisque;
+}
